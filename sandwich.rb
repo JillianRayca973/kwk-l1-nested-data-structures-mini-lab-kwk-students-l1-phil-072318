@@ -1,6 +1,6 @@
 ingredients = {
     :breads => ["rye", "sourdough", "baguette"]
-     }:meats => ["ham", "salami", "turkey"]
+     } :meats => ["ham", "salami", "turkey"]
     }:Cheeses => ["swiss", "munster", "cheddar"]
     }:Condiments => ["mayo", "mustard", "tabasco"]
 }
