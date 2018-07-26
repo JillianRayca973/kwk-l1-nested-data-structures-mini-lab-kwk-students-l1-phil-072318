@@ -1,4 +1,4 @@
-ingredients
+ingredients = 
     ["rye", "sourdough", "baguette"],
     ["ham", "salami", "turkey"],
     ["swiss", "munster", "cheddar"],
