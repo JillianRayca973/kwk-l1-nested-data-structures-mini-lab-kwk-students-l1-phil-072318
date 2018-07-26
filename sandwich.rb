@@ -1,11 +1,11 @@
 ingredients = {
-    ["rye", "sourdough", "baguette"]=>
-    ["ham", "salami", "turkey"],
-    ["swiss", "munster", "cheddar"]=>
-    ["mayo", "mustard", "tabasco"]
-  end
+    :breads => ["rye", "sourdough", "baguette"]
+    :meats => ["ham", "salami", "turkey"]
+    :Cheeses => ["swiss", "munster", "cheddar"]
+    :Condiments => ["mayo", "mustard", "tabasco"]
+
   
-  puts "Your order is #{[0][2]},#{[1][2]},#{[2][0]},#{[3][0]"
+  puts "Your order is #{[:breads][2]},#{[:meats][2]},#{[:Cheeses][0]},#{[:Condiments][0]"
 
 
   
