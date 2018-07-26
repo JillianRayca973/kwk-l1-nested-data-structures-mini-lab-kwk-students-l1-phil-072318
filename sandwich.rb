@@ -6,5 +6,7 @@ ingredients = {
   }
   
   puts "Your order is #{[0][2]},#{[1][2]},#{[2][0]},#{[3][0]"
-  
+end
+ingredients
+
   
