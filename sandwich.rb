@@ -1,5 +1,5 @@
 ingredients = {
-    :breads =>["rye", "sourdough", "baguette"]
+    ["rye", "sourdough", "baguette"]
     ["ham", "salami", "turkey"]
     ["swiss", "munster", "cheddar"]
     ["mayo", "mustard", "tabasco"]
